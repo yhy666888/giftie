@@ -31,12 +31,12 @@ export const homeConfig = {
 // 图片放在 public/images 中，建议是正方形，否则影响视觉体验
 // name 是礼物的全称；alias 是礼物的简称（用来显示在抽奖方格里）
 export const gifts = [
-  { key: 'q', name: 'Dior双飞套装', alias: 'Dior双飞', image: '/images/1.png',  description: '「经典迷人色彩，彰显奢华魅力」' },
-  { key: 'w', name: '腾讯视频终身VIP', alias: 'VIP', image: '/images/2.png',  description: '“为你承包一辈子的 VIP”' },
-  { key: 'e', name: '兰蔻小黑瓶套装', alias: '小黑瓶套装', image: '/images/3.png',  description: '「强维稳，快修护」' },
-  { key: 'r', name: '520红包', alias: '520', image: '/images/6.png',  description: '“想给你唱一百首情歌”' },
-  { key: 't', name: 'Dior星空套装', alias: 'Dior星空', image: '/images/5.png',  description: '「百变唇妆，精美雕琢」' },
-  { key: 'y', name: '1314红包', alias: '1314', image: '/images/6.png',  description: '“从今往后，我都会在你旁边”' },
-  { key: 'u', name: 'UR购物券：¥1,000', alias: 'UR', image: '/images/7.png',  description: '“UR！买！”' },
-  { key: 'i', name: 'Dyson美发套装', alias: '戴森', image: '/images/8.png',  description: '「不同造型需求，全面满足」' },
+    { key: 'q', name: '樱花美白面膜', alias: '樱花面膜', image: '/images/01.png', description: '把可爱的春天提前送给你' },
+    { key: 'w', name: '腾讯视频一个季度VIP', alias: 'VIP', image: '/images/2.png', description: '忙着追剧，也要记得想我' },
+    { key: 'e', name: '心心相吸手链一对', alias: '手链套装', image: '/images/03.png', description: '将你我系在一起' },
+    { key: 'r', name: '520红包', alias: '520', image: '/images/6.png', description: '“想给你唱一百首情歌”' },
+    { key: 't', name: '朝朝暮暮香薰', alias: '香薰', image: '/images/05.png', description: '「日月星河，朝朝暮暮」' },
+    { key: 'y', name: '旋转木马香水', alias: '木马香水', image: '/images/06.png', description: '“是梦幻，是童话，是无需长大”' },
+    { key: 'u', name: '指定口红礼品', alias: '口红', image: '/images/1.png', description: '“口红！买！”' },
+    { key: 'i', name: '故宫美妆套装', alias: '故宫美妆', image: '/images/08.png', description: '「春与美妆，皆动人」' },
 ];
